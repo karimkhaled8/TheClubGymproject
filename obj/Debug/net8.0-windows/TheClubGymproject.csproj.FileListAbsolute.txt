@@ -151,3 +151,4 @@ C:\Users\KARIM\Desktop\TheclubProject\TheClubGymproject\TheClubGymproject\obj\De
 C:\Users\KARIM\Desktop\TheclubProject\TheClubGymproject\TheClubGymproject\obj\Debug\net8.0-windows\TheClubGymproject.pdb
 C:\Users\KARIM\Desktop\TheclubProject\TheClubGymproject\TheClubGymproject\obj\Debug\net8.0-windows\TheClubGymproject.genruntimeconfig.cache
 C:\Users\KARIM\Desktop\TheclubProject\TheClubGymproject\TheClubGymproject\obj\Debug\net8.0-windows\ref\TheClubGymproject.dll
+C:\Users\KARIM\Desktop\TheclubProject\TheClubGymproject\TheClubGymproject\obj\Debug\net8.0-windows\TheClubGymproject.sourcelink.json
